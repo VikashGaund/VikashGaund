@@ -1,4 +1,4 @@
-![logo](https://github.com/princesahanipks/princesahanipks/blob/main/banner%20logo.jpg)
+![logo](https://raw.githubusercontent.com/VikashGaund/VikashGaund/refs/heads/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi <img width="50" height="35" alt="image" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 I am Vikash</h1>
 <h3 align="center">I am Vikash Gaund, a passionate learner and aspiring web developer with a growing skillset in front-end and back-end technologies. Currently pursuing my BCA, I’m exploring web development, programming, and tech tools with dedication and curiosity. I'm excited to apply my skills in real-world projects and continuously grow as a developer.
