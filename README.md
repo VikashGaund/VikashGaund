@@ -1,15 +1,18 @@
 ![logo](https://raw.githubusercontent.com/VikashGaund/VikashGaund/refs/heads/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi <img width="50" height="35" alt="image" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 I am Vikash</h1>
-<h3 align="center">I am Vikash Gaund, a passionate learner and aspiring web developer with a growing skillset in front-end and back-end technologies. Currently pursuing my BCA, I’m exploring web development, programming, and tech tools with dedication and curiosity. I'm excited to apply my skills in real-world projects and continuously grow as a developer.
+<h3 align="center"> I am Vikash Gaund 🎓 Final-Year BCA Student | 📊 Aspiring Data Analyst
 
+Passionate about transforming data into actionable insights using Excel, SQL, Power BI, and Python.
+
+Currently building real-world Data Analytics projects and continuously improving my analytical and problem-solving skills.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashgaund&label=Profile%20views&color=0e75b6&style=flat" alt="vikashgaund" /> </p>
 
 - 🔭 I’m currently pursuing **Bachelor of Computer Application**
 
-- 🌱 I’m currently learning **Web Development & Data Structure and Algorithm**
+- 🌱 I’m currently learning **📊 Aspiring Data Analys**
 
 - 👯 I’m looking to collaborate on **Project Work**
 
